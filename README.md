@@ -1,4 +1,4 @@
-# Towers-of-Hanoi
+# Towers of Hanoi
 A simple game of an ancient mathematical puzzle that starts off with three stacks and many disks.
 
 ## Objective
